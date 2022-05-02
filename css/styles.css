@@ -8,3 +8,6 @@ h1 {
 
 h1, h2, h3 { text-align: Center;
 }
+
+h3, ul {font-style: bold;
+}
