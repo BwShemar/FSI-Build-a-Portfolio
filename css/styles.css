@@ -43,8 +43,12 @@ ul li {
 
 .about-me {
     font-family: 'Times New Roman', Times, serif;
+
 }
 
+.my-projects {
+    font-family: 'Times New Roman', Times, serif;
+}
 
 /* ID Selector */
 
@@ -64,4 +68,9 @@ hr{
     height: 2px;
     background-color: white;
     border: 1px dotted;
+}
+
+#Photo {
+    height: 200px;
+    border-radius: 25px;
 }
