@@ -60,16 +60,10 @@ ul li {
     border-radius: 25px;
 }
 
-hr, {
+hr{
     height: 2px;
     background-color: white;
     border: 1px dotted;
-}
-
-#Second.hr {
-    height: 1px;
-    background-color: black;
-    border: 2px dashed;
 }
 
 #Photo {
@@ -80,5 +74,5 @@ hr, {
 #Me {
     height: 550px;
     border: 1px solid rgba(86, 26, 26, 0.586);
-    border-radius: 0px;
+    border-radius: 25px;
 }
